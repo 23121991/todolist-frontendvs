@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const baseUrl = "http://localhost:5000"
+const baseUrl = "https://todolist-backend-d2w2.onrender.com"
 
 
 const getAllToDo = (setToDo) => {
